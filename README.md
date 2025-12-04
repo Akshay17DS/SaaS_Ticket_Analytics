@@ -1,7 +1,5 @@
 # SaaS Support Ticket Analytics Dashboard
 
-# SaaS Support Ticket Analytics Dashboard
-
 This project analyzes SaaS customer support tickets using Python, DuckDB SQL, Power BI, and a light machine learning model.  
 It demonstrates an end-to-end analytics workflow starting from raw data → cleaning → EDA → dashboard → ML baseline.
 
