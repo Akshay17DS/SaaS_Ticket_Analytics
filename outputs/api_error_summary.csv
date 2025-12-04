@@ -1,0 +1,7 @@
+api_error_type,tickets_affected,avg_resp_ms
+Timeout,431,308.3496932515337
+Rate Limit,360,314.48477157360406
+Auth Failure,337,287.43832020997377
+500 Server Error,284,307.4323432343234
+Payload Error,198,274.51724137931035
+Schema Mismatch,196,353.1116504854369

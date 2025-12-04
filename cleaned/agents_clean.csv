@@ -1,0 +1,41 @@
+agent_id,agent_name,team,experience_years
+A001,Agent_1,Tier 1,1.3
+A002,Agent_2,Escalations,2.4
+A003,Agent_3,Tier 2,1.1
+A004,Agent_4,Tier 2,5.8
+A005,Agent_5,Tier 1,1.6
+A006,Agent_6,Tier 1,3.2
+A007,Agent_7,Tier 1,1.7
+A008,Agent_8,Integration,2.5
+A009,Agent_9,Tier 2,2.6
+A010,Agent_10,Tier 2,1.4
+A011,Agent_11,Tier 1,8.0
+A012,Agent_12,Escalations,4.0
+A013,Agent_13,Integration,6.6
+A014,Agent_14,Tier 1,5.5
+A015,Agent_15,Tier 1,2.8
+A016,Agent_16,Tier 1,6.1
+A017,Agent_17,Tier 1,1.2
+A018,Agent_18,Tier 2,1.4
+A019,Agent_19,Tier 1,1.1
+A020,Agent_20,Tier 1,1.8
+A021,Agent_21,Tier 2,2.0
+A022,Agent_22,Tier 1,1.6
+A023,Agent_23,Tier 1,4.5
+A024,Agent_24,Tier 1,1.9
+A025,Agent_25,Tier 1,1.7
+A026,Agent_26,Tier 2,2.6
+A027,Agent_27,Tier 1,1.3
+A028,Agent_28,Tier 2,4.2
+A029,Agent_29,Tier 2,1.2
+A030,Agent_30,Tier 1,9.7
+A031,Agent_31,Tier 2,4.0
+A032,Agent_32,Tier 1,1.4
+A033,Agent_33,Tier 1,1.0
+A034,Agent_34,Integration,4.4
+A035,Agent_35,Escalations,3.5
+A036,Agent_36,Integration,3.6
+A037,Agent_37,Tier 1,4.0
+A038,Agent_38,Tier 1,1.2
+A039,Agent_39,Tier 2,1.9
+A040,Agent_40,Tier 1,1.2

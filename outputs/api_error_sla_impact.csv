@@ -1,0 +1,7 @@
+api_error_type,sla_breach_pct,tickets
+Timeout,0.0,489
+Rate Limit,0.0,394
+Auth Failure,0.0,381
+500 Server Error,0.0,303
+Schema Mismatch,0.0,206
+Payload Error,0.0,203

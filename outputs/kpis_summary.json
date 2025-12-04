@@ -1,0 +1,7 @@
+{
+  "total_tickets": 11000,
+  "avg_first_response_mins": 260.39,
+  "avg_resolution_hrs": 20.86,
+  "sla_breach_pct": 0.0,
+  "avg_csat": 3.56
+}
