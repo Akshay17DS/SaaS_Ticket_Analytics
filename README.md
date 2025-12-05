@@ -17,31 +17,20 @@ It showcases the complete workflow from raw data to business dashboard and predi
 ## 📁 Project Structure
 
 - cleaned
-
   - tickets_master_clean.csv
-
   - agents_clean.csv
-
   - customers_clean.csv
 
 - notebooks
-
   - 01_data_understanding.ipynb
-
   - 02_data_cleaning.ipynb
-
   - 03_sql_eda.ipynb
-
   - 04_ml_basics.ipynb
 
 - outputs
-
 - plots
-
 - powerbi
-
 - ml
-
 - README.md
 
 ---
