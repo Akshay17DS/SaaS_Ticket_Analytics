@@ -1,38 +1,48 @@
 # SaaS Support Ticket Analytics Dashboard
 
-This project analyzes SaaS customer support tickets using Python, DuckDB SQL, Power BI, and a light machine learning model.  
-It demonstrates an end-to-end analytics workflow starting from raw data → cleaning → EDA → dashboard → ML baseline.
+This project is an end-to-end analytics solution built to analyze SaaS customer support tickets using Python, DuckDB (SQL), Power BI, and a light Machine Learning model.  
+It showcases the complete workflow from raw data to business dashboard and predictive insights.
+
+---
+
+## 🔧 Tools & Technologies
+- Python (pandas, matplotlib, sklearn)
+- DuckDB (SQL)
+- Power BI
+- VS Code / Jupyter
+- CSV Datasets
 
 ---
 
 ## 📁 Project Structure
-SaaS Ticket Analytics Dashboard/
-│
-├── cleaned/
-│ tickets_master_clean.csv
-│ agents_clean.csv
-│ customers_clean.csv
-│
-├── notebooks/
-│ 01_data_understanding.ipynb
-│ 02_data_cleaning.ipynb
-│ 03_sql_eda.ipynb
-│ 04_ml_basics.ipynb
-│
-├── outputs/
-│ plots/
-│ sql_monthly_trend.csv
-│ sql_sla_monthly.csv
-│ sql_top_issue_types.csv
-│ sql_tickets_by_hour.csv
-│ sql_agent_performance.csv
-│
-├── powerbi/
-│ SaaS_Ticket_Analytics_Dashboard.pbix
-│ SaaS_Ticket_Analytics_Dashboard.png
-│ SaaS_Ticket_Analytics_Dashboard.pdf
-│
-└── README.md
+
+- cleaned
+
+  - tickets_master_clean.csv
+
+  - agents_clean.csv
+
+  - customers_clean.csv
+
+- notebooks
+
+  - 01_data_understanding.ipynb
+
+  - 02_data_cleaning.ipynb
+
+  - 03_sql_eda.ipynb
+
+  - 04_ml_basics.ipynb
+
+- outputs
+
+- plots
+
+- powerbi
+
+- ml
+
+- README.md
 
 ---
 
