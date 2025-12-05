@@ -46,8 +46,9 @@ It showcases the complete workflow from raw data to business dashboard and predi
 
 ---
 
-# 📊 Power BI Dashboard  
-![Dashboard](powerbi/SaaS_Ticket_Analytics_Dashboard.png)
+# 📊 Power BI Dashboard
+
+![SaaS_Ticket_Analytics_Dashboard_page-0001](https://github.com/user-attachments/assets/37405e64-a9a7-4619-8f80-b77245c29109)
 
 The dashboard has:  
 - KPI cards  
